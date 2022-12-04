@@ -22,7 +22,7 @@ mccabe==0.6.1
 more-itertools==8.10.0
 outcome==1.1.0
 packaging==20.8
-Pillow==8.0.1
+Pillow==9.3.0
 pipenv==2020.11.15
 pipx==0.15.6.0
 psycopg2==2.8.6
