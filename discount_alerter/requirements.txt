@@ -12,4 +12,4 @@ six==1.15.0
 soupsieve==2.0.1
 tweepy==3.9.0
 twilio==6.45.4
-urllib3==1.25.10
+urllib3==1.26.5
