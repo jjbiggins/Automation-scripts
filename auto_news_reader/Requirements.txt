@@ -10,7 +10,7 @@ cffi==1.15.0
 charset-normalizer==2.0.7
 click==7.1.2
 colorama==0.4.3
-cryptography==35.0.0
+cryptography==39.0.1
 distlib==0.3.1
 filelock==3.0.12
 h11==0.12.0
